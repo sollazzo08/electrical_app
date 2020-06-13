@@ -1,0 +1,33 @@
+Electrical Estimator 
+
+Functions:
+
+- Calculate estimate of a job
+  -> total hours worked 
+  -> $$$ per hour 
+  -> labor cost 
+  -> method of calculation(charge $$$ per outlet, charge by labor cost)
+
+- Create a material list 
+ -> add material 
+ -> delete material 
+ -> 
+
+- Create/initialize a job 
+ -> Name the job 
+ -> Name the client 
+ -> Name the location 
+ -> start date
+ ->
+
+Features: 
+-User profile
+ -> user profile picture 
+ -> upcoming jobs
+ -> preview completed jobs
+ -> preview jobs in progress
+
+-Calander to keep track of jobs 
+ -> date of job
+ -> time of job
+ -> reminder of job (notify system)
